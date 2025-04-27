@@ -1,4 +1,4 @@
-🏀 Currently I am working with
+ 🛠 Currently I am working with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
